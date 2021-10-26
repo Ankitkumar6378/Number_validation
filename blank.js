@@ -5,6 +5,9 @@ function blank(fld)
         error = "You didn't enter anything \n";
         alert(error);
         return false;
+
+
+        
     }
     else 
     length(fld);
